@@ -2,6 +2,8 @@
 
 This repository contains programming assignments and case study quizzes from the Deep Learning Specialization on Coursera, offered by deeplearning.ai.
 
+**Disclaimer:** This material is for my own further studies and personal reference. Other students taking these courses should use it **only** as a reference to get unstuck. Copying the code directly is strictly prohibited and is against Coursera's student code of conduct. Please use these solutions responsibly to aid your learning, not to bypass it.
+
 ## Course 1: Neural Networks and Deep Learning
 
 * **[Project 1: Python Basics with Numpy](https://github.com/Woreviam/Deep-Learning-Specialization---Coursera/blob/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/W2/W2A1/Python_Basics_with_Numpy.ipynb)**: This assignment serves as a warm-up, ensuring foundational Python and NumPy skills essential for deep learning. You'll implement basic numerical operations and array manipulations, preparing for subsequent assignments.
